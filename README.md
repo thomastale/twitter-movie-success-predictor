@@ -9,7 +9,7 @@ Got movie title, opening weekend revenue, theaters (released in), and date relea
 
 ### tweets, likes, retweets
 Used a library called GetOldTweets3 to scrape twitter for tweets, likes and retweets containing the movie title 
-between a certain range of dates.
+between a certain range of dates (no limit to how long ago the tweet was posted).
 Free Twitter API and tweepy only allow for scraping from all of twitter to 7 days prior.
 (Allows for unlimited scraping from one user's timeline though).
 
